@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Saul Murray",
+      "id": 2
+    }
+  ],
+  "albums": [
+    {
+      "id": 10,
+      "title": "hikking trip",
+      "userId": 1
+    },
+    {
+      "userId": 1,
+      "title": "Practical Cotton Ball",
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "title": "Licensed Fresh Bike",
+      "id": 12
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7974667442716672",
+      "id": 3
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7437509850038272",
+      "id": 5
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=3014789827657728",
+      "id": 6
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=994476472401920",
+      "id": 7
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=5953197080313856",
+      "id": 11
+    }
+  ]
+}
